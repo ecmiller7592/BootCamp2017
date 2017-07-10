@@ -14,14 +14,15 @@ The math lectures for the OSM Lab will be held from 8:00-9:50am, Monday, Wednesd
 |     |     |              | [Thomas Sargent](http://www.tomsargent.com/) | Video: "[Economics, computation, and Python](https://youtu.be/7d47A3TrMBI)" |   |
 6-20  | T   |              |                         |      |   |
 6-21  | W   | Probability and statistics | [Karl Schmedders](http://www.business.uzh.ch/en/professorships/qba/members/schmedders.html) | HJ (2017, Ch. 3) | [Math Prob Set 1](https://github.com/OpenSourceMacro/BootCamp2017/blob/master/Math/Wk1_ProbStat/ProbStat_probset.pdf)  |
-6-22  | Th  |              |                |      | due M, 6-26, 8am |
+|     |     |                            |    | [Schmedders' Notes](https://github.com/OpenSourceMacro/BootCamp2017/blob/master/Math/Wk1_ProbStat/SchmeddersProbNotes.pdf) | due M, 6-26, 8am |
+6-22  | Th  |              |                |      |  |
 6-23  | F   | Probability and statistics | [Karl Schmedders](http://www.business.uzh.ch/en/professorships/qba/members/schmedders.html) | HJ (2017, Ch. 3) |   |
 
 ### Week 2
 
 | Date | Day | Topic | Instructor | Materials | Problem Set |
 |:---:|:---:|:--- |:--- |:--- | --- |
-6-26  | M   | Inner product spaces | [Zachary Boyd](http://www.math.ucla.edu/~zach.boyd/) | HJE (2017, Ch. 3) | Math Prob Set 2  |
+6-26  | M   | Inner product spaces | [Zachary Boyd](http://www.math.ucla.edu/~zach.boyd/) | HJE (2017, Ch. 3) | [Math Prob Set 2](https://github.com/OpenSourceMacro/BootCamp2017/blob/master/Math/Wk2_InProd/InProd_probset.pdf) |
 6-27  | T   |                      |         |     | due W, 7-5, 8am |
 6-28  | W   | Inner product spaces | [Zachary Boyd](http://www.math.ucla.edu/~zach.boyd/) | HJE (2017, Ch. 3) |  |
 6-29  | Th  |                      |                     |     |  |
@@ -33,9 +34,10 @@ The math lectures for the OSM Lab will be held from 8:00-9:50am, Monday, Wednesd
 |:---:|:---:|:--- |:--- |:--- | --- |
 7-3  | M   | NO CLASSES: HOLIDAY | NO CLASSES: HOLIDAY | NO CLASSES: HOLIDAY  |   |
 7-4  | T   | NO CLASSES: HOLIDAY | NO CLASSES: HOLIDAY | NO CLASSES: HOLIDAY  |   |
-7-5  | W   | Spectral theory     | John Van den Berghe | HJE (2017, Ch. 4) | Math Prob Set 3 |
+7-5  | W   | Spectral theory     | John Van den Berghe | HJE (2017, Ch. 4) | [Math Prob Set 3](https://github.com/OpenSourceMacro/BootCamp2017/blob/master/Math/Wk3_Spct/Spect_probset.pdf) |
 7-6  | Th  |               |             |     | due M, 7-10, 8am |
 7-7  | F   | Spectral theory     | John Van den Berghe | HJE (2017, Ch. 4) |  |
+|     |     |                            |    | [Supplementary Notes](https://github.com/OpenSourceMacro/BootCamp2017/blob/master/Math/Wk3_Spct/VanDenBerghe_Notes.pdf) |  |
 
 ### Week 4
 

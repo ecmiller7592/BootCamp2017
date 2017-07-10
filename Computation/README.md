@@ -26,7 +26,7 @@ The computational methods lab sessions for the OSM Lab will be held from 8:00-11
 | Date | Day | Topic | Instructor | Materials | Problem Set |
 |:---:|:---:|:--- |:--- |:--- | --- |
 6-19  | M   |     |     |     |     |
-6-20  | T   |     | Justin Gardiner | [ACME: Intro to Numpy](https://github.com/OpenSourceMacro/BootCamp2017/blob/master/Computation/Wk1_PyIntro/NumpyIntro.pdf) | [Comp Prob Set 1]() |
+6-20  | T   |     | Justin Gardiner | [ACME: Intro to NumPy](https://github.com/OpenSourceMacro/BootCamp2017/blob/master/Computation/Wk1_PyIntro/NumpyIntro.pdf) | [Comp Prob Set 1](https://github.com/OpenSourceMacro/BootCamp2017/blob/master/Computation/Wk1_PyIntro/PyIntro_probset.pdf) |
 |     |     |     |                 | [ACME: Standard Library](https://github.com/OpenSourceMacro/BootCamp2017/blob/master/Computation/Wk1_PyIntro/StandardLibrary.pdf) | due T, 6-27, 8am |
 |     |     |     |                 | [ACME: Unit Testing](https://github.com/OpenSourceMacro/BootCamp2017/blob/master/Computation/Wk1_PyIntro/Vol1B-Testing-2017.pdf) |   |
 6-21  | W   |     |         |          |    |
@@ -39,9 +39,15 @@ The computational methods lab sessions for the OSM Lab will be held from 8:00-11
 | Date | Day | Topic | Instructor | Materials | Problem Set |
 |:---:|:---:|:--- |:--- |:--- | --- |
 6-26  | M   |     |     |     |     |
-6-27  | T   |     | Justin Gardiner |  | [Comp Prob Set 2]() |
-6-28  | W   |     |         |          | due W, 7-5, 8am    |
-6-29  | Th  |     | Justin Gardiner |  |   |
+6-27  | T   | Visualizations | Justin Gardiner | [Visualizations Notebook](https://github.com/OpenSourceMacro/BootCamp2017/blob/master/Tutorials/PythonVisualize.ipynb) | [Comp Prob Set 2](https://github.com/OpenSourceMacro/BootCamp2017/blob/master/Computation/Wk2_VisPandas/VisPandas_probset.pdf) |
+|     |     | and Pandas  |    | [ACME: Intro to Matplotlib](https://github.com/OpenSourceMacro/BootCamp2017/blob/master/Computation/Wk2_VisPandas/PlottingIntro.pdf) | due W, 7-5, 8am |
+|     |     |     |    | [ACME: Data Visualization](https://github.com/OpenSourceMacro/BootCamp2017/blob/master/Computation/Wk2_VisPandas/Vol1A-DataVisualization-2016.pdf) |   |
+|     |     |     |    | [ACME: Pandas 1](https://github.com/OpenSourceMacro/BootCamp2017/blob/master/Computation/Wk2_VisPandas/Vol3A-Pandas1-2016.pdf) |   |
+6-28  | W   |     |         |          |     |
+6-29  | Th  | Visualizations | Justin Gardiner | [Pandas Notebook](https://github.com/OpenSourceMacro/BootCamp2017/blob/master/Tutorials/PythonNumpyPandas.ipynb) |   |
+|     |     | and Bokeh      |          | [ACME: Pandas 3](https://github.com/OpenSourceMacro/BootCamp2017/blob/master/Computation/Wk2_VisPandas/Vol3A-Pandas3-2016.pdf) |    |
+|     |     |      |          | [ACME: Pandas 4](https://github.com/OpenSourceMacro/BootCamp2017/blob/master/Computation/Wk2_VisPandas/Vol3A-Pandas4-2016.pdf) |    |
+|     |     |     |    | [ACME: Bokeh](https://github.com/OpenSourceMacro/BootCamp2017/blob/master/Computation/Wk2_VisPandas/Vol3A-Bokeh-2016.pdf) |   |
 6-30  | F   |     |     |     |     |
 
 ### Week 3
@@ -51,8 +57,12 @@ The computational methods lab sessions for the OSM Lab will be held from 8:00-11
 7-3  | M    | NO CLASSES: HOLIDAY | NO CLASSES: HOLIDAY | NO CLASSES: HOLIDAY  |  |
 7-4  | T    | NO CLASSES: HOLIDAY | NO CLASSES: HOLIDAY | NO CLASSES: HOLIDAY  |  |
 7-5  | W    |     |         |          |   |
-7-6  | Th   |     | Justin Gardiner |  | [Comp Prob Set 3]() |
-7-7  | F    |     |     |     | due T, 7-11, 8am |
+7-6  | Th   |  Matrix Decomposition | Justin Gardiner | [ACME: QR Decomp 1](https://github.com/OpenSourceMacro/BootCamp2017/blob/master/Computation/Wk3_Decomp/Vol1A-QR1-Decomposition-2016.pdf) | [Comp Prob Set 3](https://github.com/OpenSourceMacro/BootCamp2017/blob/master/Computation/Wk3_Decomp/Decomp_probset.pdf) |
+|     |     | and Compute Speed |          | [ACME: QR Decomp 2](https://github.com/OpenSourceMacro/BootCamp2017/blob/master/Computation/Wk3_Decomp/Vol1A-QR2-LeastSqEigs-2016.pdf) | due T, 7-11, 8am |
+|     |     |      |          | [ACME: SVD Image Compress](https://github.com/OpenSourceMacro/BootCamp2017/blob/master/Computation/Wk3_Decomp/Vol1A-SVD-2016.pdf) |  |
+|     |     |      |          | [ACME: Drazin Inverse](https://github.com/OpenSourceMacro/BootCamp2017/blob/master/Computation/Wk3_Decomp/Vol1B-Drazin-2017.pdf) |  |
+|     |     |      |          | [QuantEcon: Need For Speed](https://lectures.quantecon.org/py/need_for_speed.html) |  |
+7-7  | F    |     |     |     |  |
 
 ### Week 4
 
